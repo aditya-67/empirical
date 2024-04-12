@@ -1,5 +1,13 @@
 # @empiricalrun/cli
 
+## 0.4.1
+
+### Patch Changes
+
+- 0964efd: fix: added scorer progress bar and fix cli progress bar ui
+- ea655a4: chore: better error messaging for CLI commands
+- 3558afb: fix: python script logs are unreadable and breaks cli logs ui
+
 ## 0.4.0
 
 ### Minor Changes
